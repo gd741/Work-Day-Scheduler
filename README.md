@@ -31,6 +31,8 @@ THEN the saved events persist
 ```
 
 The following pictures demonstrates the application functionality:
+![alt text]()
 
-
+## Site URL
+https://gd741.github.io/Work-Day-Scheduler/
 
