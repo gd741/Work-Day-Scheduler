@@ -1,1 +1,3 @@
 theme: jekyll-theme-cayman
+title: Work-Day-Scheduler
+description: A simple 9AM-5PM calendar using moment.js,jquery,bootstrap and google fonts
