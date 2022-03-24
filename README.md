@@ -31,7 +31,7 @@ THEN the saved events persist
 ```
 
 The following pictures demonstrates the application functionality:
-![alt text]()
+![alt text](https://github.com/gd741/Work-Day-Scheduler/blob/main/Assets/Images/schedule1.jpg)
 
 ## Site URL
 https://gd741.github.io/Work-Day-Scheduler/
