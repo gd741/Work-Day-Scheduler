@@ -1,7 +1,7 @@
 # 05 Third-Party APIs: Work Day Scheduler
 
 ## Description
-A simple 9AM-5PM calendar using moment.js,jquery,bootstrap and google fonts
+A simple 9AM-5PM work day scheduler using moment.js, jquery, bootstrap and google fonts.
 
 
 ## User Story
